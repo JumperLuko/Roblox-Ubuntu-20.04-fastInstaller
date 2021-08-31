@@ -1,0 +1,6 @@
+https://ubuntuhandbook.org/index.php/2021/05/wine-6-9-released-install-in-ubuntu-21-04-20-04/
+https://pypi.org/project/grapejuice/
+https://gitlab.com/brinkervii/grapejuice/-/wikis/Installing-from-source/Debian-10-and-similar
+https://gitlab.com/brinkervii/grapejuice/-/wikis/Guides/First-time-setup
+
+https://roblox.fandom.com/pt-br/wiki/ROBLOX_no_Linux
